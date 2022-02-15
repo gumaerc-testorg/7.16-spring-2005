@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Scientific Comm.
 uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 ---
