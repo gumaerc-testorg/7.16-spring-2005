@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: exp_design.pdf
 uid: 79d44221-4ceb-ecbd-7f6e-6aef9e5182c2

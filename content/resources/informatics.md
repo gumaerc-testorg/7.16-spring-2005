@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: informatics.pdf
 uid: 9e422cfc-05a0-7160-fb05-1b0f60c05b43

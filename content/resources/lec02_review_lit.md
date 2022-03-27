@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scientific Comm.
 parent_type: CourseSection
+parent_uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 resourcetype: Document
 title: lec02_review_lit.pdf
 uid: 131caf9a-1486-d9a7-660f-4e213674eff0

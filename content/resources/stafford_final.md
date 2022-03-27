@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79ed537b-9f51-49f0-bd10-812fe3fd7b11
 resourcetype: Document
 title: stafford_final.pdf
 uid: 9f93f0b9-7f9d-1824-ec14-5daf1af7e344

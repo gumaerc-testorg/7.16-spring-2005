@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: rneasy_s2rna.pdf
 uid: da3e401e-53ef-d39a-9b53-19e87a4ef258

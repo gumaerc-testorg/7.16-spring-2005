@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scientific Comm.
 parent_type: CourseSection
+parent_uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 resourcetype: Document
 title: lec10_titleabstr.pdf
 uid: f9b26234-cae2-9f4c-ccc9-20949f245f29

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scientific Comm.
 parent_type: CourseSection
+parent_uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 resourcetype: Document
 title: lec07_results.pdf
 uid: 89eb8ead-d10e-9ca5-d061-544dfc1d5327

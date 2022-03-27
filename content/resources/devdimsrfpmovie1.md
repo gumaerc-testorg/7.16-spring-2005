@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 80d0b1f2-503f-b4af-ed05-aad9214ef45e
 resourcetype: Other
 title: devdimsrfpmovie1.mov
 uid: dd253382-62f1-5621-327d-d5754acddddc

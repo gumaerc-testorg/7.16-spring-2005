@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scientific Comm.
 parent_type: CourseSection
+parent_uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 resourcetype: Document
 title: lec05_mpominirev.pdf
 uid: 21aebde3-97e5-0ae1-c19f-708e1f02236d

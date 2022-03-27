@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scientific Comm.
 parent_type: CourseSection
+parent_uid: cdf76b8f-aa62-beb8-601f-7918b4ee1a61
 resourcetype: Document
 title: lec03_resch_prop.pdf
 uid: e6bd0320-6e06-bd4e-a032-c9bbc7f16862

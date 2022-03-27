@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: dsrna_transfecti.pdf
 uid: c7e8541d-3b6e-ef60-804b-19c2158fe15b

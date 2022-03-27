@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: rt_pcr_2step.pdf
 uid: fe24e796-e6ac-c2ef-676b-e120f74d9c85

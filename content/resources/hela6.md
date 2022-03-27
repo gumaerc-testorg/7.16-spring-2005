@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 80d0b1f2-503f-b4af-ed05-aad9214ef45e
 resourcetype: Other
 title: hela6.mov
 uid: 8a5f5a7c-318a-d858-5a47-130e954cdbc4

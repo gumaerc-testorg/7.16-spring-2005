@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 80d0b1f2-503f-b4af-ed05-aad9214ef45e
 resourcetype: Document
 title: projectlab2005.pdf
 uid: 72d515a6-569a-fdcf-04b9-780d407c79d1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79ed537b-9f51-49f0-bd10-812fe3fd7b11
 resourcetype: Document
 title: minireview.pdf
 uid: 2bf339e8-5759-6c03-7627-e6133ca62600
