@@ -6,6 +6,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fungene.pdf
 uid: a74a81d7-646c-57a6-3597-e16e761e14c2
 ---
 This file contains the material required and instructions to carry out the experiment 'RNAi ? dsRNA Transfection using FuGENE 6'.
-

@@ -5,6 +5,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dsrna_soaking.pdf
 uid: 753accd8-49d3-c765-267c-885157923adb
 ---
 This file contains the materials and instructions for dsRNA Soaking.
-

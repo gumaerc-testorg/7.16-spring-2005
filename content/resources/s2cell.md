@@ -6,6 +6,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: s2cell.pdf
 uid: 8bcf8afd-58f5-8896-15cb-5f21d8c76d01
 ---
 This file contains the material and instructions to carry out S2 cell culture.
-

@@ -6,6 +6,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dsrna_transfecti.pdf
 uid: c7e8541d-3b6e-ef60-804b-19c2158fe15b
 ---
 This file contains the material required and instrutions to carry out dsRNA transfection in the lab.
-

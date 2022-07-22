@@ -6,6 +6,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: in_vitro.pdf
 uid: 1d8bf9e6-1870-698e-b25b-ec63ad827c02
 ---
 This file contains the required materials and instructions to carry out In Vitro transcription reaction (using Ambion Megascript kit).
-

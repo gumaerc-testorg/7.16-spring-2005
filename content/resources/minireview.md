@@ -5,6 +5,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: minireview.pdf
 uid: 2bf339e8-5759-6c03-7627-e6133ca62600
 ---
 This file contains instructions for the mini review.
-

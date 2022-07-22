@@ -5,6 +5,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rt_pcr_2step.pdf
 uid: fe24e796-e6ac-c2ef-676b-e120f74d9c85
 ---
 This file discusses the two step protocol.
-

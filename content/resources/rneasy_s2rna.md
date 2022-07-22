@@ -6,6 +6,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rneasy_s2rna.pdf
 uid: da3e401e-53ef-d39a-9b53-19e87a4ef258
 ---
 This file contains the intructions for carrying out rneasy prep of S2 RNA.
-

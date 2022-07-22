@@ -5,6 +5,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rt_pcr_1step.pdf
 uid: 19d218bb-bc42-726e-ab36-e4e90a3ab68e
 ---
 This file discusses one step RT-PCR.
-

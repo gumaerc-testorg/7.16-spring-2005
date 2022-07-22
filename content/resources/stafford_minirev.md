@@ -7,6 +7,7 @@ file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: stafford_minirev.pdf
 uid: c4df2cc2-62a6-d608-b0d0-3f95c0d16d63
 ---
 This file gives introduction to the topic and discusses the caspase activation pathway, structure function relationships in caspase regulators, and the Mechanism of DRONC and DIAP1 Degradation.
-
