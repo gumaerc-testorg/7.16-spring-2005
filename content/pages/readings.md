@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Reading section contains an extensive reading list for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6369fbf2-42ea-1634-f67c-5b7948218e33
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Syllabus section contains the description about this course, information
+  about texts and materials, structure of the class, assignments, intellectual honesty
+  and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 415e10f2-d2e7-0ace-30e8-ea805be23ce9
 ---
