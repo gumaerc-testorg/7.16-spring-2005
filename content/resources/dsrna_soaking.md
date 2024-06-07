@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the materials and instructions for dsRNA Soaking.
 file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/753accd849d3c765267c885157923adb_dsrna_soaking.pdf
+file_size: 88179
 file_type: application/pdf
 learning_resource_types:
 - Labs

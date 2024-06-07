@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains instructions for the mini review.
 file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/2bf339e857596c037627e6133ca62600_minireview.pdf
+file_size: 104197
 file_type: application/pdf
 learning_resource_types:
 - Assignments

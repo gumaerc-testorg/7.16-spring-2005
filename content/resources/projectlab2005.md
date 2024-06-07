@@ -6,6 +6,7 @@ description: This resource contains description of Apoptosis. It also explains t
   cytometry, the fluorescent protein family, FRET, Recent development ?XIAP is important
   in human cancer cells.
 file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/72d515a6569afdcf04b9780d407c79d1_projectlab2005.pdf
+file_size: 378384
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
