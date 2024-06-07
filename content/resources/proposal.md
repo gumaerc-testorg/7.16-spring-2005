@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the intructions for the project proposal.
 file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/91adb303e2c4f0158f9e21531b28914a_proposal.pdf
+file_size: 76131
 file_type: application/pdf
 learning_resource_types:
 - Assignments
