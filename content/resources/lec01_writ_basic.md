@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/2078866ec959949fe222eda609b9081c_lec01_writ_basic.pdf
+file_size: 665181
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
