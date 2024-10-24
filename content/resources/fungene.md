@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the material required and instructions to carry out
   the experiment 'RNAi ? dsRNA Transfection using FuGENE 6'.
-file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/a74a81d7646c57a63597e16e761e14c2_fungene.pdf
+file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/a74a81d7646c57a63597e16e761e14c2_fungene.pdf
 file_size: 83123
 file_type: application/pdf
 learning_resource_types:
