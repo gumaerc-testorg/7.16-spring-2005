@@ -3,7 +3,7 @@ content_type: resource
 description: This file gives introduction to the topic and discusses the caspase activation
   pathway, structure function relationships in caspase regulators, and the Mechanism
   of DRONC and DIAP1 Degradation.
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/c4df2cc262a6d608b0d03f95c0d16d63_stafford_minirev.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/c4df2cc262a6d608b0d03f95c0d16d63_stafford_minirev.pdf
 file_size: 943142
 file_type: application/pdf
 learning_resource_types:

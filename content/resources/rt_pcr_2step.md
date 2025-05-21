@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses the two step protocol.
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/fe24e796e6acc2ef676be120f74d9c85_rt_pcr_2step.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/fe24e796e6acc2ef676be120f74d9c85_rt_pcr_2step.pdf
 file_size: 129890
 file_type: application/pdf
 learning_resource_types:

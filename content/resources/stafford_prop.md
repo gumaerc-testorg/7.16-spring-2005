@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the specific aims, background and significance, and
   research design and methods.
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/f46a74774b71c9b9a6af5325ca99733b_stafford_prop.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/f46a74774b71c9b9a6af5325ca99733b_stafford_prop.pdf
 file_size: 140848
 file_type: application/pdf
 learning_resource_types:
