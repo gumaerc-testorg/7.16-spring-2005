@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/89eb8eadd10e9ca5d061544dfc1d5327_lec07_results.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/89eb8eadd10e9ca5d061544dfc1d5327_lec07_results.pdf
 file_size: 56466
 file_type: application/pdf
 learning_resource_types: []

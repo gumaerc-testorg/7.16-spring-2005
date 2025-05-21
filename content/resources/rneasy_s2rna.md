@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the intructions for carrying out rneasy prep of S2
   RNA.
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/da3e401e53efd39a9b5319e87a4ef258_rneasy_s2rna.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/da3e401e53efd39a9b5319e87a4ef258_rneasy_s2rna.pdf
 file_size: 64647
 file_type: application/pdf
 learning_resource_types:

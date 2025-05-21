@@ -7,7 +7,7 @@ description: This file contains the instructions about how to Search GenBank for
   and other information on the function of this gene. Also find out if it has alternative
   isoforms and search OpenBiosystems to find out if they carry RNAi clones of these
   genes, and get the clone ID and catalog number.
-file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/9e422cfc05a07160fb051b0f60c05b43_informatics.pdf
+file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/9e422cfc05a07160fb051b0f60c05b43_informatics.pdf
 file_size: 70920
 file_type: application/pdf
 learning_resource_types:
