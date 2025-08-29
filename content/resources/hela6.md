@@ -2,7 +2,7 @@
 content_type: resource
 description: This clip shows 4 HeLa cells that have been transfected with a CFP-DEVD-YFP
   reporter gene.
-file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/8a5f5a7c318ad8585a47130e954cdbc4_hela6.mov
+file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/8a5f5a7c318ad8585a47130e954cdbc4_hela6.mov
 file_size: 879647
 file_type: video/quicktime
 learning_resource_types: []

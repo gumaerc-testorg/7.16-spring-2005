@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information for writing the final paper.
-file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/65975e1e03a02f1402780db67a9d1682_finalpaper.pdf
+file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/65975e1e03a02f1402780db67a9d1682_finalpaper.pdf
 file_size: 144121
 file_type: application/pdf
 learning_resource_types:
