@@ -2,11 +2,11 @@
 content_type: resource
 description: This file contains the material required and instrutions to carry out
   dsRNA transfection in the lab.
-file: /courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/c7e8541d3b6eef60804b19c2158fe15b_dsrna_transfecti.pdf
+file: /ol-ocw-studio-app/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/c7e8541d3b6eef60804b19c2158fe15b_dsrna_transfecti.pdf
 file_size: 65820
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
