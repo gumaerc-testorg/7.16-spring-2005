@@ -12,7 +12,7 @@ This course includes significant instruction in scientific communications. Durin
 Background reading
 ------------------
 
-Gopen, George D., and Judith A. Swan. "[The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/1)." _The American Scientist_ 78 (1990): 550-558.
+Gopen, George D., and Judith A. Swan. "{{% resource_link "38a6b57d-c033-49dd-b6ed-d72b22cc8528" "The Science of Scientific Writing" %}}." _The American Scientist_ 78 (1990): 550-558.
 
 Lectures on Scientific Communications
 -------------------------------------
